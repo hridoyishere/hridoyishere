@@ -77,7 +77,7 @@ Beyond development, I enjoy exploring system design, solving algorithmic challen
 <td width="25%" valign="top" align="center">
 <b>Smart Restaurant</b><br/>
 <small>Admin Portal</small><br/>
-<a href="YOUR_ADMIN_REPO_LINK_HERE"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/hridoyishere/Admin-Panel-of-Order-system-application-application-"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <br/><br/>
 <img src="https://res.cloudinary.com/dyqmmzz5f/image/upload/v1785515742/Restaurant_Admin_j78mkz.png" width="120" height="75"/>
 </td>
