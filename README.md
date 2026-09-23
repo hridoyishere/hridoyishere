@@ -1,6 +1,6 @@
 ### About Me
 
-I am a Software Engineer I can build scalable, end-to-end applications solving real-world problems. 
+I am a Software Engineer. I build scalable, end-to-end applications solving real-world problems. 
 <br/>
 Beyond development, I enjoy exploring system design, solving algorithmic challenges, and mastering modern technologies. I believe consistent learning and hands-on project creation are the core drivers of engineering growth.
 
