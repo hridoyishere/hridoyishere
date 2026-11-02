@@ -1,8 +1,8 @@
 Hello!
 <br/>
-I am a Full-Stack Software Engineer with Web, Mobile and System Design expertise. I can design and build complete software systems.. 
+I’m a Full-Stack Software Engineer with expertise in web, mobile, and system design.
 <br/>
-I am good at analyse a problem, design the database, choose the architecture, build the frontend and mobile applications, develop the backend, deploy the system and maintain it.
+I design and build complete software systems: analyzing the problem, designing the database, choosing the architecture, building the frontend and mobile apps, developing the backend, deploying, and maintaining it all.
 <br/>
 In short: I turn problems into working, maintainable software.
 <p>
