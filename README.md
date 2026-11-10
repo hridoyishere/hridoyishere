@@ -2,9 +2,6 @@ Hello!
 <br/>
 I’m a Full-Stack Software Engineer with expertise in web, mobile, and system design.
 <br/>
-I design and build complete software systems: analyzing the problem, designing the database, choosing the architecture, building the frontend and mobile apps, developing the backend, deploying, and maintaining it all.
-<br/>
-In short: I turn problems into working, maintainable software.
 <p>
   <!-- Frontend Web  -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
