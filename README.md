@@ -12,7 +12,6 @@ Backend powered by Node.js, MongoDB & PostgreSQL
   
   
   <!-- Frontend Mobile -->
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
   <!-- Backend -->
