@@ -2,9 +2,9 @@ Hello!
 <br/>
 I’m a Fullstack Software Developer
 <br/>
-Building cross-platform apps with Flutter & modern web experiences with React.js
+Building cross-platform apps with ***Flutter*** & modern web with ***React.js***
 <br/>
-Backend powered by Node.js, MongoDB & PostgreSQL
+Backend by ***Node.js***, ***MongoDB*** & ***PostgreSQL*** etc...
 <br/>
 <p>
   <!-- Frontend Web  -->
