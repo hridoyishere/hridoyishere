@@ -1,6 +1,10 @@
 Hello!
 <br/>
-I’m a Full-Stack Software Engineer with expertise in web, mobile, and system design.
+I’m a Fullstack Software Developer
+<br/>
+Building cross-platform apps with Flutter & modern web experiences with React.js
+<br/>
+Backend powered by Node.js, MongoDB & PostgreSQL
 <br/>
 <p>
   <!-- Frontend Web  -->
