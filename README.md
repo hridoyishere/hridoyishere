@@ -4,7 +4,7 @@ I’m a Fullstack Software Developer
 <br/>
 Building cross-platform apps with ***Flutter*** & modern web with ***React.js***
 <br/>
-Backend by ***Node.js***, ***MongoDB*** & ***PostgreSQL*** etc...
+Backend with ***Node.js***, ***MongoDB*** & ***PostgreSQL*** etc...
 <br/>
 <p>
   <!-- Frontend Web  -->
