@@ -1,11 +1,12 @@
 Hello!
 <br/>
-I’m a Fullstack Software Developer
+I’m a Full-Stack Software Developer
 <br/>
-Building cross-platform apps with ***Flutter*** & modern web with ***React.js***
+I build mobile apps with **Flutter** and modern web apps with **React.js**
 <br/>
-Backend with ***Node.js***, ***MongoDB*** & ***PostgreSQL*** etc...
+Backend with **Node.js**, **MongoDB**, and **PostgreSQL**
 <br/>
+Deployment and DevOps with **Vercel**, **Render**, and more
 <p>
   <!-- Frontend Web  -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
