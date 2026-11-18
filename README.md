@@ -6,7 +6,7 @@ I build mobile apps with **Flutter** and modern web apps with **React.js**
 <br/>
 Backend with **Node.js**, **MongoDB**, and **PostgreSQL**
 <br/>
-Deployment and DevOps with **Vercel**, **Render**, and more
+Deployment and DevOps with **Vercel**, **Render**, and <a href="https://hridoy-dev.vercel.app/" target="_blank">more..<a/>
 <p>
   <!-- Frontend Web  -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
