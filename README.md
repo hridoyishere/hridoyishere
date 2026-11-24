@@ -6,16 +6,16 @@ I build applications with **Flutter**| **React.js**| **Next.js**.
 <br/>
 Backend with **Node.js**, **MongoDB**, and **PostgreSQL**. Deployment and DevOps with **Vercel**, **Render** <a href="https://hridoy-dev.vercel.app/" target="_blank">see more..<a/>
 <p>
-  <!-- Frontend Web  -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
-  
-  
   <!-- Frontend Mobile -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  
+  <!-- Frontend Web  -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  
+
   <!-- DB -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
