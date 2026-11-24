@@ -2,11 +2,9 @@ Hello!
 <br/>
 I’m a Full-Stack Software Developer
 <br/>
-I build mobile apps with **Flutter** and modern web apps with **React.js**
+I build applications with **Flutter**| **React.js**| **Next.js**.
 <br/>
-Backend with **Node.js**, **MongoDB**, and **PostgreSQL**
-<br/>
-Deployment and DevOps with **Vercel**, **Render**. <a href="https://hridoy-dev.vercel.app/" target="_blank">more..<a/>
+Backend with **Node.js**, **MongoDB**, and **PostgreSQL**. Deployment and DevOps with **Vercel**, **Render** <a href="https://hridoy-dev.vercel.app/" target="_blank">see more..<a/>
 <p>
   <!-- Frontend Web  -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> 
